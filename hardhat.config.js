@@ -19,7 +19,7 @@ module.exports = {
     networks: {
       goerli: {
         url: 'https://www.quicknode.com/endpoints/83072/',
-        accounts: ['ffb93ed7bec1ca2994a5cfcc48dde3a657e319957b44d3623e8da5cd76399c10']
+        accounts: ['f...d76399c10']
       }
     },
     settings: {
